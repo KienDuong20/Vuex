@@ -1,6 +1,6 @@
 <template>
   <div class="navbar">
-    <h1>My Vuex App Todos ABCEFsAAAACCCC</h1>
+    <h1>My Vuex App Todos ABCEFsAAAACCCCc</h1>
     <ul>
       <li>Home</li>
       <li>About</li>
